@@ -1,0 +1,4 @@
+pushswappub/push_swap
+*.o
+*.a
+.vscode/
