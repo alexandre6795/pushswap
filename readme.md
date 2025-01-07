@@ -80,4 +80,4 @@ Pour compiler et exécuter le programme :
 make && ./push_swap "liste de nombres"
 ```
 
-Ou bien avec le testeur [ici](https://github.com/o-reo/push_swap_visualizer) (dans les submodule)
+Ou bien avec le testeur [ici](https://github.com/o-reo/push_swap_visualizer) (commande make visualizer)

@@ -1,6 +1,5 @@
 pushswappub/push_swap
 *.o
 *.a
-visualizer
 push_swap
 .vscode/
